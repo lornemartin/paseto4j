@@ -38,6 +38,7 @@ public class Token {
     // try4
     int i = 10;
     int j = i;
+    int k = j;
   }
 
   public Token(String tokenString, Version version, Purpose purpose, String footer) {
