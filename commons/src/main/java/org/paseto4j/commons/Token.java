@@ -34,6 +34,8 @@ public class Token {
     }
     //validateTokenParts();
     //verifyFooter(footer);
+    //
+    // try4
   }
 
   public Token(String tokenString, Version version, Purpose purpose, String footer) {
