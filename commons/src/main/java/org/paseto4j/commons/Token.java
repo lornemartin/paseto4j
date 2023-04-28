@@ -36,6 +36,8 @@ public class Token {
     //verifyFooter(footer);
     //
     // try4
+    int i = 10;
+    int j = i;
   }
 
   public Token(String tokenString, Version version, Purpose purpose, String footer) {
