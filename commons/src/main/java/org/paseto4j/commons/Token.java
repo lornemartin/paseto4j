@@ -32,8 +32,8 @@ public class Token {
     } else {
       verify(tokenParts.length != 3, "Token should consists of exactly 3 parts");
     }
-
     //validateTokenParts();
+    //verifyFooter(footer);
   }
 
   public Token(String tokenString, Version version, Purpose purpose, String footer) {
